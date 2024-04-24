@@ -428,7 +428,7 @@ git push -u origin --tags
 ## commit
 
 > 修改 `commit message`
-> > 未提交 远程 `git commit --amend`
+> > 未提交 远程 `git commit --amend` \
 > > 已提交 远程
 > > > ```shell
 > > > git reset --soft HEAD~1
